@@ -1,3 +1,7 @@
+layout: page
+title: "L'intégration continue en quatorze étapes"
+permalink: /ci_en_14_etapes
+
 # L'intégration continue en quatorze étapes
 
 Alpes Craft 2023
