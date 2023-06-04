@@ -5,3 +5,7 @@
 ## Alpes Craft 2023
 
 [L'intégration continue en quatorze étapes](ci_en_14_etapes.md)
+
+!!! Info
+
+    Le reste des présentations arrivera bientôt!
