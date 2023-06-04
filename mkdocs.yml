@@ -3,4 +3,5 @@ site_url: https://aircstnr.github.io/
 nav:
     - Home: index.md
     - ci_en_14_etapes.md
-theme: readthedocs
+theme:
+    name: material
