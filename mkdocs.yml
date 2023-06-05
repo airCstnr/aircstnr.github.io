@@ -3,7 +3,7 @@ site_url: https://aircstnr.github.io/
 nav:
   - Home: index.md
   - Alpes Craft:
-      - ci_en_14_etapes.md
+      - alpes_craft/ci_en_14_etapes.md
 theme:
   name: material
   features:
