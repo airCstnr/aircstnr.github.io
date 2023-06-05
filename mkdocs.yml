@@ -1,9 +1,14 @@
 site_name: Raphaël Castanier
 site_url: https://aircstnr.github.io/
+repo_url: https://github.com/airCstnr/aircstnr.github.io
+repo_name: aircstnr.github.io
+edit_uri: "edit/master/docs/"
+
 nav:
   - Home: index.md
   - Alpes Craft:
       - alpes_craft/ci_en_14_etapes.md
+
 theme:
   name: material
   features:
