@@ -6,7 +6,7 @@ Speaker: [Thierry de Pauw](https://thinkinglabs.io/index.html)
 
 ## Introduction
 
-L'intégration continue est un ensemble de pratiques qui permettent de livrer rapidement un produit logicielle de qualité.
+L'intégration continue est un ensemble de pratiques qui permettent de livrer rapidement un produit logiciel de qualité.
 
 Nous allons présenter ici 14 pratiques essentielles à l'intégration continue.
 
