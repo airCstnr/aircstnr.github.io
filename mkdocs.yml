@@ -7,7 +7,10 @@ edit_uri: "edit/master/docs/"
 nav:
   - Home: index.md
   - Alpes Craft:
+      - alpes_craft/alpes_craft_2023.md
       - alpes_craft/ci_en_14_etapes.md
+  - Tracking et Reporting:
+      - tracking_et_reporting/tracking_et_reporting.md
 
 theme:
   name: material
@@ -18,3 +21,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+plugins:
+  - git-revision-date
