@@ -1,6 +1,6 @@
 # Bonjour, je suis Raphaël Castanier
 
-Coach Agile / Lean / XP - Artisan développeur - Formateur
+**Coach Agile / Lean / XP - Artisan développeur - Indépendant**
 
 !!! Abstract
 
