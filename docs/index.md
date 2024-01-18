@@ -12,7 +12,6 @@ Coach Agile / Lean / XP - Artisan développeur - Formateur
     Je souhaite proposer un service de qualité à tous ceux qui veulent satisfaire leurs clients et leurs équipes de développement.
 
 Vous trouverez dans ces pages de nombreuses ressources sur l'agilité, l'artisanat logiciel, la qualité logicielle, *etc*...
-
 Le tout sera illustré par mes expériences.
 
 Vous pouvez me contacter [ici](#todo).
