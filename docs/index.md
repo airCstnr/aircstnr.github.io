@@ -14,6 +14,6 @@
 Vous trouverez dans ces pages de nombreuses ressources sur l'agilité, l'artisanat logiciel, la qualité logicielle, *etc*...
 Le tout sera illustré par mes expériences.
 
-Vous pouvez me contacter [ici](#todo).
+Vous pouvez [me contacter :material-email:](mailto:raphael.castanier@free.fr).
 
 ![Raphaël Castanier](img/2021_12_raphael.jpg)
