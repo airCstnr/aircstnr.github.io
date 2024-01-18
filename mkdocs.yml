@@ -5,7 +5,10 @@ repo_name: aircstnr.github.io
 edit_uri: "edit/master/docs/"
 
 nav:
-  - Home: index.md
+  - Home:
+      - index.md
+      - home/services.md
+      - home/experiences.md
   - Alpes Craft:
       - alpes_craft/alpes_craft_2023.md
       - alpes_craft/ci_en_14_etapes.md
