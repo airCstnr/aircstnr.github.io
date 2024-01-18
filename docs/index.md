@@ -2,7 +2,7 @@
 
 **Coach Agile / Lean / XP - Artisan développeur - Indépendant**
 
-!!! Abstract
+!!! Abstract "A propos"
 
     Je suis coach agile freelance basé à Grenoble, expert dans l'optimisation des méthodes de travail et la mise en œuvre des pratiques agiles.
     J'apporte un accompagnement personnalisé pour renforcer la collaboration et l'efficacité opérationnelle des équipes de développement logiciel.
