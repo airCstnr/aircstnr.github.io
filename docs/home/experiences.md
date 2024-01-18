@@ -22,3 +22,11 @@ Les contraintes de performance et de qualité m'ont permis de progresser sur de 
 J'ai aussi travaillé au support technique d'un système de messagerie entre des couches logiciel bas-niveau et haut-niveau en embarqué.
 
 Enfin, j'ai animé la tribu agile pour la diffusion des pratiques agiles au sein du département de R&D.
+
+## [CEA](https://cea.fr)
+
+*2017 Sep–2020 Jul*
+
+En apprentissage pendant 3 ans au CEA, au sein du Département de Technologies pour la Biologie et la Santé, j'ai travaillé auprès de différents acteurs de la recherche appliquée aux dispositifs portés sur la personne ainsi que sur de la microscopie sans lentille.
+
+J'ai mis en place une plateforme de développement "maison" basée sur `CMake` et `Python` ainsi qu'un serveur web `Django` pour le contrôle d'un démonstrateur de microscope sans lentille.
