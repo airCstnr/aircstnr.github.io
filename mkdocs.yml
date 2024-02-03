@@ -6,7 +6,7 @@ edit_uri: "edit/master/docs/"
 
 nav:
   - Home:
-      - index.md
+      - Hello world!: index.md
       - home/services.md
       - home/experiences.md
       - home/hobbies.md
